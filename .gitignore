@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Candea.Common.Logging.Log4Net
+/Candea.Common.Logging.Log4Net/.vs/Candea.Common.Logging.Log4Net
+/Candea.Common.Logging.Log4Net/bin/Debug
+/Candea.Common.Logging.Log4Net/obj
